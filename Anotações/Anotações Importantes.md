@@ -1,4 +1,4 @@
-# Anotações Importantes a cerca do Bootcamp
+# Anotações Importantes acerca do Bootcamp
 
 ##### Arquivo para desafio de Git/GitHub
 
